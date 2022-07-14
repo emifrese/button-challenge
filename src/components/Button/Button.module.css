@@ -1,0 +1,20 @@
+.buttonDefault {
+    font-family: 'Noto Sans JP';
+    font-weight: 500;
+    font-size: 14px;
+    padding: 0;
+    line-height: 20.27px;
+    min-width: 81px;
+    min-height: 36px;
+    border: none;
+    border-radius: 6px;
+    align-items: center;
+    background-color: #E0E0E0;
+    box-shadow: 0px 2px 3px 0px #33333333;
+}
+
+.buttonDefault:hover, .buttonDefault:focus {
+    background-color: #AEAEAE;
+}
+
+

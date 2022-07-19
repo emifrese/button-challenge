@@ -17,7 +17,7 @@ const MainPage = () => {
         <h3>
           <a href="/challenge">Demo</a>
           <span> | </span>
-          <a href="https://{your-url-to-the-solution}">Solution</a>
+          <a href="https://github.com/emifrese/button-challenge">Solution</a>
           <span> | </span>
           <a href="https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY">
             Challenge

@@ -1,19 +1,21 @@
 .buttonContainer {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     padding: 0.5rem;
     gap: 0.5rem;
-    width: 40%;
-    background-color: rgba(119, 164, 237,0.5);
-    border-radius: 10px;
-    box-shadow: 0px 2px 3px 0px #33333333;
+    width: 35%;
 }
 
-p {
+.buttonTitle {
+    font-family: 'Ubuntu Mono';
+    font-size: 14px;
+    font-weight: 400;
+    color: #333333;
     width: 100%;
     margin: 0;
+    text-align: left;
 }
 
 button {

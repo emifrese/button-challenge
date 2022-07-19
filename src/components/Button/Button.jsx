@@ -88,7 +88,7 @@ const Button = ({
 
   return (
     <div className={classes.buttonContainer}>
-      <p>{title}</p>
+      <p className={classes.buttonTitle}>{title}</p>
       <button
         className={classButton}
         style={style}

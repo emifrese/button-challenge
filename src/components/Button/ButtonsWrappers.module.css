@@ -2,8 +2,8 @@
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 4rem;
+    gap: 1rem;
     border: 2px solid red;
-    margin: 0 2rem;
     padding: 1rem 0;
+    width: 80%;
 }

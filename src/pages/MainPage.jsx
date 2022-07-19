@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 const MainPage = () => {
   return (
@@ -15,7 +16,7 @@ const MainPage = () => {
 
       <div>
         <h3>
-          <a href="/challenge">Demo</a>
+          <Link to="/challenge">Demo</Link>
           <span> | </span>
           <a href="https://github.com/emifrese/button-challenge">Solution</a>
           <span> | </span>

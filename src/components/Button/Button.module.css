@@ -33,6 +33,7 @@ button {
     border: none;
     border-radius: 6px;
     color-scheme: none;
+    cursor: pointer;
 }
 
 button img {

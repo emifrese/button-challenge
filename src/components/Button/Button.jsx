@@ -37,6 +37,7 @@ const Button = ({
   if (disabled) {
     title += 'disabled '
     style.color = "#9e9e9e";
+    style.pointerEvents = 'none'
   }
 
   if (startIcon) {

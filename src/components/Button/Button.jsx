@@ -41,12 +41,12 @@ const Button = ({
   }
 
   if (startIcon) {
-    title += `startIcon=${iconName} `
+    title += `startIcon={${iconName}} `
     style.paddingRight = "16px";
   }
 
   if (endIcon) {
-    title += `endIcon=${iconName} `
+    title += `endIcon={${iconName}} `
     style.paddingLeft = "16px";
   }
 

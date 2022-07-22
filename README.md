@@ -43,5 +43,5 @@ $ npm start
 
 ## Contact
 
-- GitHub [@emifrese](https://{github.com/emifrese})
-- Twitter [@emilianofrese](https://{twitter.com/emilianofrese})
+- GitHub [@emifrese](https://github.com/emifrese)
+- Twitter [@emilianofrese](https://twitter.com/emilianofrese)
